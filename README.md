@@ -2,7 +2,7 @@
 Material necessary to reproduce the development of the analyses carried out during the Master's thesis:  
 **Detection and analysis of potential therapeutic targets for Multiple Myeloma lines**
 
-- First of all, it should be noted that in order to carry out this workflow, it is advisable to read the report beforehand, where the steps to be followed are specified and explained in detail. On the other hand, in order to execute some of the scripts, it will be necessary to have a solver such as GUROBI installed on the server where they will be executed.
+- First of all, it should be noted that in order to carry out this workflow, it is advisable to read the report beforehand (Lopez_Carbonell_FJavier_MScThesis.pdf), where the steps to be followed are specified and explained in detail. On the other hand, in order to execute some of the scripts, it will be necessary to have a solver such as GUROBI installed on the server where they will be executed.
 
 - *base.zip, tejidos1.zip and tejidos2.zip, MM.zip* -> generic model (base directory), healthy tissue models (tejidos directory), MM line models (MM directory). Large files are not allowed to be uploaded, so I have split the tissue models into two folders. To make it more automatic, it is recommended to unzip the models and save them in a global directory with 3 named folders: base, tejidos (containing tejidos 1 and 2) and MM. **To do this, you can use the bash script called "Directory_preparation.sh", which will re-organise the directories.**
 
