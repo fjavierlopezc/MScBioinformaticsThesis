@@ -17,4 +17,4 @@ Material necessary to reproduce the development of the analyses carried out duri
 
 - *AnalysisTargetsToxicities-OneSingleLine.ipynb* -> Script that stores all the analyses detailed in the report, corresponding to one selected MM line.
 
-- *Master_thesis_exhibition" -> I will also be showing the presentation that I used to support the defence of the work in front of a university tribunal.
+- *Master_thesis_exhibition* -> I will also be showing the presentation that I used to support the defence of the work in front of a university tribunal.
