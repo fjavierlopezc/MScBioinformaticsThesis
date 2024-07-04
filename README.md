@@ -9,7 +9,7 @@ Material necessary to reproduce the development of the analyses carried out duri
 - *CreateModelsTasksPickle.ipynb* -> script developed by Francisco Guil to create 57 additional metabolic task models associated to each previous model.
                                              It was not feasible to publish the associated task models generated due to the large amount of space they occupy.
 
-- *calculatedMCS.tar.gz* ->  Minimal Cut Set (MCS) calculated from metabolic task models. You can use a short **bash script called extract_mcs.sh** that decompresses and reorganises the directory structure used in the analysis scripts.
+- *calculatedMCS.tar.gz* ->  Minimal Cut Set (MCS) calculated from metabolic task models. You can use a short **bash script called extract_mcs.sh** that decompresses and reorganises the directory structure used in the analysis scripts as well.
 
 - *CheckingMCS.ipynb* -> Script for checking MCS and verify that the reactions under consideration are indeed MCSs.
 
